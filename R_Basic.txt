@@ -1,0 +1,6 @@
+R Language : 
+
+* used for statistical computing and graphical presentation.
+* common use is to analyze and visualize data.
+
+
