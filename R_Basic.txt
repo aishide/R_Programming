@@ -7,3 +7,8 @@ R Language :
 Syntax : 
 * To output text in R, use single or double quotes
 * To output numbers, just type the number (without quotes)
+
+
+Comments :
+* Comments starts with a #
+* No multiline comments here
