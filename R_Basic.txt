@@ -4,3 +4,6 @@ R Language :
 * common use is to analyze and visualize data.
 
 
+Syntax : 
+* To output text in R, use single or double quotes
+* To output numbers, just type the number (without quotes)
