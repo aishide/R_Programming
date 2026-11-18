@@ -56,3 +56,9 @@ Type conversion :
 as.numeric()
 as.integer()
 as.complex()
+
+
+
+Mathematical Operator : 
++
+-
