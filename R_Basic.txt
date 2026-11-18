@@ -62,3 +62,12 @@ as.complex()
 Mathematical Operator : 
 +
 -
+
+
+Built-in Math Functions :
+min()
+max()
+sqrt()
+abs()
+ceiling()
+floor()
