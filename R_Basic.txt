@@ -12,3 +12,10 @@ Syntax :
 Comments :
 * Comments starts with a #
 * No multiline comments here
+
+
+Variables :
+* Variables are containers for storing data values
+* To assign a value to a variable, use the <- sign
+
+
