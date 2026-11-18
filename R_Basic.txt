@@ -19,3 +19,9 @@ Variables :
 * To assign a value to a variable, use the <- sign
 
 
+Concatenation : 
+* concatenate, or join, two or more elements, by using the paste() function.
+* To combine both text and a variable, R uses comma (,)
+
+
+If you try to combine a string (text) and a number, R will give you an error using +
