@@ -49,3 +49,10 @@ There are three number types in R :
 numeric x <- 10.5 
 integer y <- 10L 
 complex z <- 1i
+
+
+
+Type conversion : 
+as.numeric()
+as.integer()
+as.complex()
