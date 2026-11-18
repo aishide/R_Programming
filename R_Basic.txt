@@ -32,3 +32,14 @@ Variables Rules :
 2. A variable name cannot start with a number or underscore (_)
 3. Variable names are case-sensitive (age, Age and AGE are three different variables)
 4. Reserved words cannot be used as variables (TRUE, FALSE, NULL, if...)
+
+
+
+Basic Data Types : 
+Basic data types in R can be divided into the following types:
+numeric - (10.5, 55, 787)
+integer - (1L, 55L, 100L, where the letter "L" declares this as an integer)
+complex - (9 + 3i, where "i" is the imaginary part)
+character (a.k.a. string) - ("k", "R is exciting", "FALSE", "11.5")
+logical (a.k.a. boolean) - (TRUE or FALSE)
+We can use the class() function to check the data type of a variable:
