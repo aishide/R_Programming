@@ -71,3 +71,8 @@ sqrt()
 abs()
 ceiling()
 floor()
+
+
+
+
+r language is case sensetive
