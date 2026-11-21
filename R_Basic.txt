@@ -76,3 +76,13 @@ floor()
 
 
 r language is case sensetive
+
+
+
+
+Data Structures
+* Vectors
+* Lists
+* Matrices
+* Arrays
+* Data Frames
