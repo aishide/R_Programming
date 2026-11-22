@@ -6,3 +6,10 @@ my_array
 
 multi_array <- (array(my_array, dim = c(3,2,6)))
 multi_array
+
+#access element 
+multiarray[2, 3, 2]
+
+for(x in multiarray){
+  print(x)
+}
