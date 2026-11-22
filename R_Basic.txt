@@ -86,3 +86,12 @@ Data Structures
 * Matrices
 * Arrays
 * Data Frames
+
+
+
+Data Structure	Contains	Same Type?	Use Case
+Vector	Single row of values	Yes	Simple sequences
+List	Multiple types	No	Grouped mixed data
+Matrix	2D same-type values	Yes	Tables with numeric data
+Array	Multi-dimensional values	Yes	3D or higher-dimensional data
+Data Frame	Columns of mixed types	No	Working with tabular data
