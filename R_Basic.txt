@@ -95,3 +95,13 @@ List	Multiple types	No	Grouped mixed data
 Matrix	2D same-type values	Yes	Tables with numeric data
 Array	Multi-dimensional values	Yes	3D or higher-dimensional data
 Data Frame	Columns of mixed types	No	Working with tabular data
+
+
+
+
+
+PLOT 
+The plot() function is used to draw points (markers) in a diagram.
+The function takes parameters for specifying points in the diagram.
+Parameter 1 specifies points on the x-axis.
+Parameter 2 specifies points on the y-axis.
