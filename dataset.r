@@ -22,3 +22,18 @@ summary(Data_Cars)
 
 
 #In R, ? looks up the documentation (help page) for a dataset, while summary() calculates statistical insights from the actual data inside it.
+
+Data_Cars <- mtcars
+
+max(Data_Cars$hp)
+min(Data_Cars$hp)
+
+
+#we can use the which.max() and which.min() functions to find the index position of the max and min value in the table:
+Data_Cars <- mtcars
+which.max(Data_Cars$hp)
+which.min(Data_Cars$hp)
+
+
+rownames(Data_Cars)[which.max(Data_Cars$hp)]
+rownames(Data_Cars)[which.min(Data_Cars$hp)]
