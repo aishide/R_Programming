@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Hero Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050629,35:261C71,70:4F39FF,100:815BF1&height=240&section=header&text=R%20Programming%20Lab&fontSize=48&fontColor=F2EFFC&animation=twinkling&fontAlignY=36&desc=Statistical%20Computing%20%E2%80%A2%20Visual%20Analytics%20%E2%80%A2%20Machine%20Learning&descSize=16&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050629,35:261C71,70:4F39FF,100:815BF1&height=240&section=header&text=R%20Programming&fontSize=48&fontColor=F2EFFC&animation=twinkling&fontAlignY=36&desc=Statistical%20Computing%20%E2%80%A2%20Visual%20Analytics%20%E2%80%A2%20Machine%20Learning&descSize=16&descAlignY=58" width="100%" />
 
   <!-- Dynamic Typing SVG -->
   <a href="https://git.io/typing-svg">
