@@ -34,7 +34,7 @@ Welcome to my **R Programming Lab** — a curated, hands-on engineering reposito
 
 ---
 
-## 📊 Visual Analytics & Data Showcase
+## 📊 Visual Analytics
 
 A real-time visual snapshot of the distributions, analytical focus areas, and cumulative practice progression across this repository:
 
